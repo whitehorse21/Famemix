@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1096429158806",
+    "project_id": "famemix-feb0d",
+    "storage_bucket": "famemix-feb0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096429158806:android:547e9efa93fc91a6a21db7",
+        "android_client_info": {
+          "package_name": "com.famemix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096429158806-jbcd2kdfcfugp53tuaaj68jpee9pnkde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkSLeXjT32PJcD3zcD2L6Ade3dvuS9-MU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096429158806-jbcd2kdfcfugp53tuaaj68jpee9pnkde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

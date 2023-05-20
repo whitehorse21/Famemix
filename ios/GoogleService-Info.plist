@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>335706760011-4ond49lqi47o6pvhodamvk5kjnimajes.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.335706760011-4ond49lqi47o6pvhodamvk5kjnimajes</string>
+	<key>API_KEY</key>
+	<string>AIzaSyApaQ7-9miRBQI33llPR0SMu9J6dzCMvvc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>335706760011</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.famemix</string>
+	<key>PROJECT_ID</key>
+	<string>famemix-music</string>
+	<key>STORAGE_BUCKET</key>
+	<string>famemix-music.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:335706760011:ios:57f39fee1a31dbe9087ece</string>
+	<key>DATABASE_URL</key>
+	<string>https://famemix-music.firebaseio.com</string>
+	<key>ADMOB_APP_ID</key>
+	<string>ca-app-pub-8046933833472128~2461714791</string>
+</dict>
+</plist>
